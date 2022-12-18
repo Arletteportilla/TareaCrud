@@ -1,0 +1,5 @@
+{
+    "css.format.spaceAroundSelectorSeparator": true,
+    "html.format.indentHandlebars": true,
+    "vsintellicode.features.python.deepLearning": "enabled"
+}
